@@ -64,7 +64,7 @@ PermissionUtils.requestPermission(this,"权限申请说明，用于第一次被�
 
 ##其他
 
-PermissionUtils具体实现过程参考博客链接:<http://www.xiaohanshao.cn/2017/03/10/permission>
+PermissionUtils具体实现过程参考博客链接:<http://blog.xiaohanshao.cn/2017/03/10/permission>
 
 有BUG或者有其他意见改进的地方可以联系我
-我的博客:<blog.xiaohanshao.cn>
+我的博客:<http://blog.xiaohanshao.cn>
