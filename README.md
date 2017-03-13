@@ -12,11 +12,7 @@
 dependencies {
     compile 'com.hanshao:universallibrary:1.1.0'
 }
-repositories {
-    maven{
-        url "https://dl.bintray.com/hanshaofengs/maven/"
-    }
-}
+
 ```
 
 ##使用
